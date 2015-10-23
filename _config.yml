@@ -1,0 +1,23 @@
+name: Ali Argün
+favicon: null
+layout_spectrum: 0.5937765028793365
+typography_spectrum: 0.400829458842054
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.5029062915127724
+  lightness: 0.3912329024169594
+  saturation: 0.5852792898658663
+  rhythmicContrast: 0.9676523865200579
+purpose: []
