@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Ali Argün]]></title>
+        <description><![CDATA[Ali Argün]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 23 Oct 2015 21:03:39 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Activate Tech and Media Outlook 2016]]></title>
+            <description><![CDATA[<article><h1>Activate Tech and Media Outlook 2016</h1><p>At Activate, we've identified the 9 most important insights for tech and media in 2016. Key points: * The average American spends more time on tech and media t...</p></article>]]></description>
+            <link>http://www.slideshare.net/ActivateInc/activate-tech-and-media-outlook-2016</link>
+            <guid isPermaLink="false">d7480ac9-a7db-4e62-8290-38f23546a3a0</guid>
+            <pubDate>Fri, 23 Oct 2015 21:03:26 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
